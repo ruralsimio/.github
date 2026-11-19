@@ -23,4 +23,5 @@ confirmation.
   RuralSim's own material CC BY 4.0)
 
 RuralSim is a free, open-source project by Aldrich K. Wooden, Sr., founder of Get Rural America Done.
+
 Simulated, screening-grade results with assumed parameters. Decision support, not a finding.
